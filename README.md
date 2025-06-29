@@ -2,8 +2,10 @@
 
 <p>🌱 I’m currently learning Jquery</p>
 <p>😄 Pronouns: Ele/Dele</p>
-### 🤖 Linguagens e Tecnologias
+🤖 Minhas Linguagens e Tecnologias
 
+<div
+>
 <img 
     align="left" 
     alt="HTML"
@@ -44,9 +46,27 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
 
-    <a href="https://github.com/luizpeloggio"></a>
-<div style="display: flex;">
+<img
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>
+          
+<div style="display: flex";   
+    
+    >
 <div>
 <img  
     alt="GitHub Stats" 
@@ -56,12 +76,10 @@
   />
 </div>
 <div>
-<img  
+   <img  
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpeloggio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
+  /> 
 </div>
 
