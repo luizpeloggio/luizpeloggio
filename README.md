@@ -45,8 +45,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-    <a href="https://github.com/luizpeloggio"></a> 
-<div align="left">
+    <a href="https://github.com/luizpeloggio"></a>
+<div style="display: flex;">
+<div>
 <img  
     alt="GitHub Stats" 
     height="200" 
@@ -54,12 +55,13 @@
     src="https://github-readme-stats.vercel.app/api?username=luizpeloggio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </div>
-<div  align="left">
+<div>
 <img  
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpeloggio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</div>
 </div>
 
