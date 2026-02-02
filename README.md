@@ -61,7 +61,19 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+    <img 
+    align="left" 
+    alt="React"
+    title="React 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+
+    
 </div>
 <div>
-    <img src=""/>//Gif quando chegar em casa
+    
+    
+          
 </div>
