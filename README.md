@@ -1,6 +1,6 @@
 ## Hi ! Sou Luiz  👋
 
-<p>🌱 I’m currently learning Jquery</p>
+<p>🌱 I’m currently learning Jquery and React</p>
 <p>😄 Pronouns: Ele/Dele</p>    
 🤖 Minhas Linguagens e Tecnologias
 
