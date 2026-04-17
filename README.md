@@ -1,7 +1,7 @@
 ## Hi, I'm Luiz! 👋
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square&color=534AB7" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=luizpeloggio&style=flat-square&color=534AB7" alt="profile views"/>
 </p>
 
 > Front-end developer focused on building clean and accessible interfaces.
@@ -35,6 +35,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizpeloggio&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpeloggio&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
