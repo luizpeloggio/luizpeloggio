@@ -1,42 +1,44 @@
 <div align="center">
 
-# ⚔️ Hi, I'm Luiz! 👋
+# ⚔️ Oi, eu sou o Luiz! 👋
 
-**Front-end developer · Clean interfaces · Accessible by design**
+**Desenvolvedor Front-end · Interfaces limpas · Acessibilidade por princípio**
 
-*Fewer dragons in production, more pixels in the right place.* 🐉
+*Menos dragões em produção, mais pixels no lugar certo.* 🐉
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=luizpeloggio&style=flat-square&color=534AB7" alt="profile views"/>
-  <img src="https://img.shields.io/badge/pronouns-Ele%2FDele-AFA9EC?style=flat-square" alt="pronouns"/>
-  <img src="https://img.shields.io/badge/house-Code-534AB7?style=flat-square" alt="house"/>
-  <img src="https://img.shields.io/badge/winter-is%20coming-5BC0EB?style=flat-square" alt="winter is coming"/>
+  <img src="https://komarev.com/ghpvc/?username=luizpeloggio&style=flat-square&color=534AB7" alt="visualizações do perfil"/>
+  <img src="https://img.shields.io/badge/pronomes-Ele%2FDele-AFA9EC?style=flat-square" alt="pronomes"/>
+  <img src="https://img.shields.io/badge/casa-C%C3%B3digo-534AB7?style=flat-square" alt="casa"/>
+  <img src="https://img.shields.io/badge/o%20inverno-est%C3%A1%20chegando-5BC0EB?style=flat-square" alt="o inverno está chegando"/>
 </p>
+
+<img src="./enfeites.svg" alt="Enfeites de Game of Thrones balançando: lobo, leão, dragão, coroa, espada, gelo e fogo" width="800"/>
 
 </div>
 
 ---
 
-### 📜 The Maester's Scroll
+### 📜 O Pergaminho do Meistre
 
-I build clean, accessible and responsive interfaces, the kind that welcome every visitor, no matter which kingdom they come from.
+Eu construo interfaces limpas, acessíveis e responsivas, do tipo que recebe bem todo visitante, não importa de qual reino ele venha.
 
-My code philosophy, in three rules:
+Minha filosofia de código, em três regras:
 
-* 🛡️ **Accessibility first.** Every user deserves a seat at the table, not just the ones with the Iron Throne of fast internet.
-* 🧹 **Clean code.** Tidy like the Citadel's library, not like King's Landing after the Battle of the Blackwater.
-* 🧪 **Test before shipping.** Because a bug in production is a lot like a wedding in Westeros: nothing good can come of it.
-
----
-
-### 🌱 Training at the Citadel (currently learning)
-
-* **jQuery**: DOM manipulation & AJAX. Sending ravens (requests) and waiting for them to return.
-* **React**: Component-based UI. Building the Wall one reusable block at a time.
+* 🛡️ **Acessibilidade em primeiro lugar.** Todo usuário merece um lugar à mesa, e não só quem tem o Trono de Ferro da internet rápida.
+* 🧹 **Código limpo.** Organizado como a biblioteca da Cidadela, e não como Porto Real depois da Batalha da Água Negra.
+* 🧪 **Testar antes de publicar.** Porque bug em produção é como casamento em Westeros: coisa boa não vem.
 
 ---
 
-### 🤖 The Armory (languages & technologies)
+### 🌱 Treinando na Cidadela (aprendendo agora)
+
+* **jQuery**: manipulação do DOM e AJAX. Mandar corvos (requisições) e esperar eles voltarem.
+* **React**: interfaces baseadas em componentes. Construindo a Muralha um bloco reutilizável por vez.
+
+---
+
+### 🤖 A Armaria (linguagens e tecnologias)
 
 <p align="center">
   <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
@@ -49,58 +51,58 @@ My code philosophy, in three rules:
   <img alt="C++" title="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 </p>
 
-| Weapon | Role in my army |
+| Arma | Papel no meu exército |
 | --- | --- |
-| 🏰 **HTML** | The castle's foundation, solid and semantic |
-| 🎨 **CSS** | The banners and heraldry, where the style lives |
-| ⚡ **JavaScript** | The wildfire: powerful, but handle with care |
-| 🔧 **jQuery** | The old knight: veteran, reliable, still in battle |
-| ⚛️ **React** | The new dragon I'm learning to ride |
-| 🗡️ **Git** | The Valyrian steel: every commit is forged to last |
-| ☕ **Java / C++** | The old gods, where it all began |
+| 🏰 **HTML** | A fundação do castelo: sólida e semântica |
+| 🎨 **CSS** | Os estandartes e brasões, onde mora o estilo |
+| ⚡ **JavaScript** | O fogovivo: poderoso, mas manuseie com cuidado |
+| 🔧 **jQuery** | O cavaleiro veterano: confiável e ainda na batalha |
+| ⚛️ **React** | O novo dragão que estou aprendendo a montar |
+| 🗡️ **Git** | O aço valiriano: cada commit é forjado para durar |
+| ☕ **Java / C++** | Os deuses antigos, onde tudo começou |
 
 ---
 
-### 🏠 Which house does my code belong to?
+### 🏠 A qual casa o meu código pertence?
 
-| House | Trait | Does it apply to me? |
+| Casa | Característica | Combina comigo? |
 | --- | --- | --- |
-| 🐺 **Stark** | Honor, loyalty, clean commits | ✅ Always |
-| 🦁 **Lannister** | Pays his tech debts | ✅ Eventually |
-| 🐉 **Targaryen** | Burns everything and rewrites from scratch | ⚠️ Only when the refactor is really needed |
-| 🦌 **Baratheon** | Ships fast, tests later | ❌ Never |
+| 🐺 **Stark** | Honra, lealdade e commits limpos | ✅ Sempre |
+| 🦁 **Lannister** | Paga suas dívidas técnicas | ✅ Uma hora paga |
+| 🐉 **Targaryen** | Queima tudo e reescreve do zero | ⚠️ Só quando o refactor for mesmo necessário |
+| 🦌 **Baratheon** | Publica rápido, testa depois | ❌ Nunca |
 
 ---
 
-### 🎵 The Bard's Playlist (now playing)
+### 🎵 A Playlist do Bardo (tocando agora)
 
 <div align="center">
   <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vcz4rhut5mhqzxkcucxbi4iitq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vcz4rhut5mhqzxkcucxbi4iitq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark" alt="Tocando agora no Spotify">
     </a>
   </p>
 </div>
 
 ---
 
-### 📊 The Realm's Records (GitHub stats)
+### 📊 Os Registros do Reino (estatísticas do GitHub)
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizpeloggio&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpeloggio&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizpeloggio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpeloggio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizpeloggio&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=luizpeloggio&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 🐺 Winter is coming... and so is my next deploy.
+### 🐺 O inverno está chegando... e o meu próximo deploy também.
 
-*Valar Codeulis: all devs must code.* ⚔️
+*Valar Codeulis: todo dev deve codar.* ⚔️
 
 </div>
