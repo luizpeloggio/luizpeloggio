@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Enfeites de Game of Thrones pendurados e balançando: lobo, leão, dragão, coroa, espada, gelo e fogo">
+  <title>Enfeites de Game of Thrones</title>
+
+  <!-- Neve caindo -->
+  <g fill="#9fd3f5" opacity="0.75">
+    <circle cx="30" cy="0" r="2"><animate attributeName="cy" from="-5" to="205" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="110" cy="0" r="1.6"><animate attributeName="cy" from="-5" to="205" dur="9s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="0" r="2.2"><animate attributeName="cy" from="-5" to="205" dur="8s" begin="-5s" repeatCount="indefinite"/></circle>
+    <circle cx="345" cy="0" r="1.8"><animate attributeName="cy" from="-5" to="205" dur="10s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="455" cy="0" r="2"><animate attributeName="cy" from="-5" to="205" dur="7.5s" begin="-6s" repeatCount="indefinite"/></circle>
+    <circle cx="570" cy="0" r="1.6"><animate attributeName="cy" from="-5" to="205" dur="9.5s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="680" cy="0" r="2.2"><animate attributeName="cy" from="-5" to="205" dur="8.5s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="775" cy="0" r="1.8"><animate attributeName="cy" from="-5" to="205" dur="7s" begin="-2.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Barra de onde os enfeites ficam pendurados -->
+  <line x1="0" y1="4" x2="800" y2="4" stroke="#c9a227" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Lobo -->
+  <g transform="translate(60,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-6 0 0;6 0 0;-6 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="4s" begin="-1s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="60" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="56" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="94" r="30" fill="#6b7a8f" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="82" rx="8" ry="5" fill="#fff" opacity="0.25" transform="rotate(-30 -10 82)"/>
+      <text x="0" y="105" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🐺</text>
+    </g>
+  </g>
+
+  <!-- Leão -->
+  <g transform="translate(170,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="5 0 0;-5 0 0;5 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="4.6s" begin="-2s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="105" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="101" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="139" r="30" fill="#a4161a" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="127" rx="8" ry="5" fill="#fff" opacity="0.25" transform="rotate(-30 -10 127)"/>
+      <text x="0" y="150" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🦁</text>
+    </g>
+  </g>
+
+  <!-- Dragão -->
+  <g transform="translate(290,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-7 0 0;7 0 0;-7 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="3.6s" begin="-0.5s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="36" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="74" r="30" fill="#8b1e2d" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="62" rx="8" ry="5" fill="#fff" opacity="0.25" transform="rotate(-30 -10 62)"/>
+      <text x="0" y="85" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🐉</text>
+    </g>
+  </g>
+
+  <!-- Coroa -->
+  <g transform="translate(400,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="5 0 0;-5 0 0;5 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="-3s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="100" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="96" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="134" r="30" fill="#7a5c0f" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="122" rx="8" ry="5" fill="#fff" opacity="0.25" transform="rotate(-30 -10 122)"/>
+      <text x="0" y="145" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">👑</text>
+    </g>
+  </g>
+
+  <!-- Espada -->
+  <g transform="translate(510,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-6 0 0;6 0 0;-6 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="4.2s" begin="-1.5s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="50" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="46" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="84" r="30" fill="#3b4048" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="72" rx="8" ry="5" fill="#fff" opacity="0.25" transform="rotate(-30 -10 72)"/>
+      <text x="0" y="95" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🗡️</text>
+    </g>
+  </g>
+
+  <!-- Gelo -->
+  <g transform="translate(625,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="6 0 0;-6 0 0;6 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="4.8s" begin="-2.5s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="110" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="106" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="144" r="30" fill="#2f6f9f" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="132" rx="8" ry="5" fill="#fff" opacity="0.3" transform="rotate(-30 -10 132)"/>
+      <text x="0" y="155" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">❄️</text>
+    </g>
+  </g>
+
+  <!-- Fogo -->
+  <g transform="translate(735,6)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-5 0 0;5 0 0;-5 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="3.9s" begin="-0.8s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="70" stroke="#c9a227" stroke-width="2"/>
+      <rect x="-7" y="66" width="14" height="10" rx="2" fill="#c9a227"/>
+      <circle cx="0" cy="104" r="30" fill="#2e7d32" stroke="#c9a227" stroke-width="2"/>
+      <ellipse cx="-10" cy="92" rx="8" ry="5" fill="#fff" opacity="0.25" transform="rotate(-30 -10 92)"/>
+      <text x="0" y="115" text-anchor="middle" font-size="30" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🔥</text>
+    </g>
+  </g>
+</svg>
